@@ -5667,7 +5667,7 @@ ID;Nome;Região;Estado;Rodovia;Km;Lat.;Long.;Comprimento;Largura;Gestora;Tipo;No
 5666;Ponte sobre o Rio Grande II - Norte;Sul;PR;BR-116;28+060;-25.10612819;-48.80842759;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4; - ;3; - ;4;4;3;2;;-;-;;;
 5667;Ponte sobre o Rio Saltinho - Norte ;Sul;PR;BR-116;32+830;-25.10612819;-48.80842759;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3; -  ;4;4;-;;3;3;;;
 5668;Ponte sobre o Rio Saltinho - Norte;Sul;PR;BR-116;32+830;-25.10612819;-48.80842759;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;3;3; - ;4;4;4;3;;-;-;;;
-5669;Ponte sobre o Ribeirão Vermelho - Sul ;Sul;PR;BR-116;35+290;-25.14567212;-48.86054651;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;3;3;3; -  ;0;4;-;;4;4;;;
+5669;Ponte sobre o Ribeirão Vermelho - Sul ;Sul;PR;BR-116;35+290;-25.14567212;-48.86054651;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;3;3;3; -  ;;4;-;;4;4;;;
 5670;Ponte sobre o Ribeirão Vermelho - Sul;Sul;PR;BR-116;35+290;-25.14567212;-48.86054651;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;3;3;3; - ;3;4;4;4;;-;-;;;
 5671;Ponte sobre o Rio Lapinha - Norte ;Sul;PR;BR-116;40+120;-25.14567212;-48.86054651;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;3;3;2; -  ;2;5;-;;4;4;;;
 5672;Ponte sobre o Rio Lapinha - Norte;Sul;PR;BR-116;40+120;-25.14567212;-48.86054651;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;3;3;2; - ;2;5;4;3;;-;-;;;
@@ -5698,7 +5698,7 @@ ID;Nome;Região;Estado;Rodovia;Km;Lat.;Long.;Comprimento;Largura;Gestora;Tipo;No
 5697;Passagem Inferior - Norte - Estrada da Graciosa;Sul;PR;BR-116;59+120;-25.23792308;-48.90852655;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;4;4;4;4;4;3;3;;-;-;;;
 5698;Passagem Inferior - Sul - Estrada da Graciosa;Sul;PR;BR-116;59+120;-25.23792308;-48.90852655;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;4;4;4;3;4;3;3;;-;-;;;
 5699;Ponte sobre o Rio das Pedras - Norte ;Sul;PR;BR-116;60+450;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3;3;4;4;-;;-;4;;;
-5700;Ponte sobre o Rio das Pedras - Sul ;Sul;PR;BR-116;60+450;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3; -  ;0;4;-;;4;-;;;
+5700;Ponte sobre o Rio das Pedras - Sul ;Sul;PR;BR-116;60+450;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3; -  ;;4;-;;4;-;;;
 5701;Ponte sobre o Rio das Pedras - Norte;Sul;PR;BR-116;60+450;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;3;3;3;4;4;4;4;;-;-;;;
 5702;Ponte sobre o Rio das Pedras - Sul;Sul;PR;BR-116;60+450;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;3;3; - ;3;4;4;4;;-;-;;;
 5703;Ponte sobre o Rio Mirim - Norte ;Sul;PR;BR-116;61+700;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3;3;4;4;-;;4;-;;;
@@ -5709,7 +5709,7 @@ ID;Nome;Região;Estado;Rodovia;Km;Lat.;Long.;Comprimento;Largura;Gestora;Tipo;No
 5708;Pas. Inferior - Sul - Campina Grande do Sul ;Sul;PR;BR-116;66+700;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3;4;4;4;-;;3;-;;;
 5709;Passagem Inferior - Norte - Campina Grande do Sul;Sul;PR;BR-116;66+700;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;3;3;5;4;4;4;4;;-;-;;;
 5710;Passagem Inferior - Sul - Campina Grande do Sul;Sul;PR;BR-116;66+700;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;3;3;4;4;4;4;4;;-;-;;;
-5711;Ponte sobre o Rio Pinhal - Norte ;Sul;PR;BR-116;69+500;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3; -  ;0;4;-;;4;-;;;
+5711;Ponte sobre o Rio Pinhal - Norte ;Sul;PR;BR-116;69+500;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;3;3; -  ;;4;-;;4;-;;;
 5712;Ponte sobre o Rio Pinhal - Sul ;Sul;PR;BR-116;69+500;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;-;4;4;4;4;4;4;-;;4;-;;;
 5713;Ponte sobre o Rio Pinhal - Norte;Sul;PR;BR-116;69+500;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;3;3; - ;3;4;4;4;;-;-;;;
 5714;Ponte sobre o Rio Pinhal - Sul;Sul;PR;BR-116;69+500;-25.31520801;-48.99953264;;;AUTOPISTA RÉGIS BITTENCOURT ;Privada Federal;Branco;;Branco;Branco;;;;4;4;4;4;4;4;3;3;;-;-;;;
@@ -9852,7 +9852,7 @@ Alça Norte, Psta Norte";Sudeste;SP;SP-070;096+700;;;35;12.4;ECOPISTAS;Privada E
 9846;Viaduto - 5A;Sudeste;SP;SP-070;130+500;;;21;12.6;ECOPISTAS;Privada Estadual;ARTESP;1;Viga;Concreto Protendido;;;;;;;;;;;;;;;A4;;
 9847;Viaduto;Sudeste;SP;SP-070;131+220;;;64.19999695;11.22;ECOPISTAS;Privada Estadual;ARTESP;2;Viga;Concreto Protendido;;;;;;;;;;;;;;;A4;;
 9848;Ponte;Sudeste;SP;SP-070;133+480;;;283.5;12;ECOPISTAS;Privada Estadual;ARTESP;13;Viga;Concreto Protendido;;;;;;;;;;;;;;;C1;;
-9849;Ponte;Sudeste;SP;SP-070;133+480;;;283.5;12;ECOPISTAS;Privada Estadual;ARTESP;13;Viga;Concreto Protendido;;;;;;;;;;;;;;;0;;
+9849;Ponte;Sudeste;SP;SP-070;133+480;;;283.5;12;ECOPISTAS;Privada Estadual;ARTESP;13;Viga;Concreto Protendido;;;;;;;;;;;;;;;;;
 9850;Viaduto;Sudeste;SP;SP-070;134+650;;;50.34000015;24.41;ECOPISTAS;Privada Estadual;ARTESP;2;Viga;Concreto Protendido;;;;;;;;;;;;;;;A4;;
 10120;Passagem Inferior - Ferroviária;Sudeste;SP;SP-332;130+000;;;41.40000153;17.5;ROTA DAS BANDEIRAS;Privada Estadual;ARTESP;1;Tabuleiro tipo grelha;Branco;;;;;B2;;;;;;;;;;A5;A5;
 10121;Passagem Superior - Acesso Local;Sudeste;SP;SP-332;132+800;;;47;14;ROTA DAS BANDEIRAS;Privada Estadual;ARTESP;1;Caixão;Branco;;;;;B2;;;;;;;;;;A5;A5;
